@@ -3,7 +3,7 @@
 </div>  
   
 
-# ***<div align="center">I'm Shanyu, A CS Student And Currently Pursuing Engineering And Technology From Meerut Institue Of Technology 👍</div>***  
+# ***<div align="center">I'm Shanyu, A CS Student And Currently Pursuing Engineering From Meerut Institue Of Engineering And Technology 👍</div>***  
   
 
 - 🔭 I’m currently working on [LINKSNAP]  
