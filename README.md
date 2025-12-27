@@ -1,12 +1,12 @@
 <div align="center">
-<img src="" align="center" style="width: 100%" />
+<img src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*ZXQifyIny_o2bFmz1BBz3A.gif" align="center" style="width: 100%" />
 </div>  
   
 
 # ***<div align="center">I'm Shanyu, A CS Grad And Currently Pursuing Engeneering From Meerut Institue Of Technology 👍</div>***  
   
 
-- 🔭 I’m currently working on [LINKSNAP](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on [LINKSNAP]  
   
 
 - 🌱 I’m currently learning DEVELOPMENT AND ML  
